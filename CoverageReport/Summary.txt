@@ -1,0 +1,28 @@
+Summary
+  Generated on: 26/03/2026 - 03:39:07
+  Coverage date: 26/03/2026 - 03:34:12 - 26/03/2026 - 03:36:49
+  Parser: MultiReport (4x Cobertura)
+  Assemblies: 1
+  Classes: 6
+  Files: 6
+  Line coverage: 100%
+  Covered lines: 109
+  Uncovered lines: 0
+  Coverable lines: 109
+  Total lines: 186
+  Branch coverage: 100% (38 of 38)
+  Covered branches: 38
+  Total branches: 38
+  Method coverage: 100% (19 of 19)
+  Full method coverage: 100% (19 of 19)
+  Covered methods: 19
+  Fully covered methods: 19
+  Total methods: 19
+
+GlobalBlueHomework                                                  100%
+  GlobalBlueHomework.Features.Contracts.PurchaseValuesRequest       100%
+  GlobalBlueHomework.Features.Contracts.PurchaseValuesResponse      100%
+  GlobalBlueHomework.Features.Endpoints.PurchaseValueEndpoints      100%
+  GlobalBlueHomework.Features.Services.PurchaseValuesService        100%
+  GlobalBlueHomework.Features.Validation.PurchaseValuesValidator    100%
+  Program                                                           100%
